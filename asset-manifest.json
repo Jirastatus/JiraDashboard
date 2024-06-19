@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JiraDashboard/static/css/main.893b8783.css",
+    "main.js": "/JiraDashboard/static/js/main.c7734b69.js",
+    "static/js/453.7abe4232.chunk.js": "/JiraDashboard/static/js/453.7abe4232.chunk.js",
+    "static/media/R.svg": "/JiraDashboard/static/media/R.1b79d9d02350c124716652a3e72b8376.svg",
+    "index.html": "/JiraDashboard/index.html",
+    "main.893b8783.css.map": "/JiraDashboard/static/css/main.893b8783.css.map",
+    "main.c7734b69.js.map": "/JiraDashboard/static/js/main.c7734b69.js.map",
+    "453.7abe4232.chunk.js.map": "/JiraDashboard/static/js/453.7abe4232.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893b8783.css",
+    "static/js/main.c7734b69.js"
+  ]
+}
