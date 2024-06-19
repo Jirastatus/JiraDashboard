@@ -8,16 +8,16 @@ import './App.css';  // Import the CSS file
 // Define an array of questions and answers
 const questions = [
   {
-    question: "How to subscribe to the RSS feed for incidents from the Webex service status page?",
-    answer: "The Webex Service Status page has been enhanced to incorporate an RSS feed for both incidents and each specific service. Users have the flexibility to opt for their preferred RSS reader and subscribe accordingly.<br/>To find the RSS Feed for incidents, simply click on the icon with the User-added image located at the top right of the Status page. For accessing the RSS Feed dedicated to each individual service, click on the User-added image icon positioned next to the respective service(s). Webex App users are advised to utilize the RSS bot, which delivers a message for every update."
+    question: "How to subscribe to the RSS feed for incidents from the Jira service status page?",
+    answer: "The Jira Service Status page has been enhanced to incorporate an RSS feed for both incidents and each specific service. Users have the flexibility to opt for their preferred RSS reader and subscribe accordingly.<br/>To find the RSS Feed for incidents, simply click on the icon with the User-added image located at the top right of the Status page. For accessing the RSS Feed dedicated to each individual service, click on the User-added image icon positioned next to the respective service(s). Jira App users are advised to utilize the RSS bot, which delivers a message for every update."
   },
   {
-    question: "How do I subscribe to the RSS feed for current releases and announcements from status.webex.com/maintenance?",
-    answer: "The Webex Service Status page has been improved to include an RSS feed for the latest releases and announcements available at https://status.webex.com/maintenance. To access the RSS Feed for current releases and announcements, click on the icon with the User-added image at the top right of status.webex.com/maintenance or status.webex.com/updates, as applicable.<br/>For Webex App users, it is recommended to make use of the RSS bot, which sends a message for each update. Additionally, users can choose their preferred RSS reader and subscribe accordingly, providing them with flexibility in staying informed."
+    question: "How do I subscribe to the RSS feed for current releases and announcements from status.Jira.com/maintenance?",
+    answer: "The Jira Service Status page has been improved to include an RSS feed for the latest releases and announcements available. To access the RSS Feed for current releases and announcements, click on the icon with the User-added image at the top right , as applicable.<br/>For Jira App users, it is recommended to make use of the RSS bot, which sends a message for each update. Additionally, users can choose their preferred RSS reader and subscribe accordingly, providing them with flexibility in staying informed."
   },
   {
     question: "How to contact Cisco technical assistance center (TAC)?",
-    answer: "Getting in touch with technical support for your Webex concerns is a straightforward process! The initial step involves determining the appropriate channel for submitting your support issue. Your company might mandate submitting a case through your internal support desk, a partner reseller, or directly through Webex.<br/>To locate your Webex site support information, follow these steps (when logged out of your Webex site):<br/>Access your Webex site.<br/>Click the menu toggle button.<br/>Select 'Support.'<br/>Explore various support options on our Help Center support page, including options to initiate an online case or connect with us via telephone."
+    answer: "Getting in touch with technical support for your Jira concerns is a straightforward process! The initial step involves determining the appropriate channel for submitting your support issue. Your company might mandate submitting a case through your internal support desk, a partner reseller, or directly through Jira.<br/>To locate your Jira site support information, follow these steps (when logged out of your Jira site):<br/>Access your Jira site.<br/>Click the menu toggle button.<br/>Select 'Support.'<br/>Explore various support options on our Help Center support page, including options to initiate an online case or connect with us via telephone."
   }
 ];
 
