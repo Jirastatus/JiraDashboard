@@ -1,11 +1,10 @@
-// QuestionList.js
+
 
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus, faMinus } from '@fortawesome/free-solid-svg-icons';
-import './App.css';  // Import the CSS file
+import './App.css';  
 
-// Define an array of questions and answers
 const questions = [
   {
     question: "How to subscribe to the RSS feed for incidents from the Jira service status page?",
