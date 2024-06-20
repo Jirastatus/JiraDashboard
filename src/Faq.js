@@ -16,7 +16,7 @@ const questions = [
     answer: "The Jira Service Status page has been improved to include an RSS feed for the latest releases and announcements available. To access the RSS Feed for current releases and announcements, click on the icon with the User-added image at the top right , as applicable.<br/>For Jira App users, it is recommended to make use of the RSS bot, which sends a message for each update. Additionally, users can choose their preferred RSS reader and subscribe accordingly, providing them with flexibility in staying informed."
   },
   {
-    question: "How to contact Cisco technical assistance center (TAC)?",
+    question: "How to contact Jira technical assistance center (TAC)?",
     answer: "Getting in touch with technical support for your Jira concerns is a straightforward process! The initial step involves determining the appropriate channel for submitting your support issue. Your company might mandate submitting a case through your internal support desk, a partner reseller, or directly through Jira.<br/>To locate your Jira site support information, follow these steps (when logged out of your Jira site):<br/>Access your Jira site.<br/>Click the menu toggle button.<br/>Select 'Support.'<br/>Explore various support options on our Help Center support page, including options to initiate an online case or connect with us via telephone."
   }
 ];
@@ -33,7 +33,7 @@ const QuestionList = () => {
   };
 
   return (
-    <div id='i5'>
+    <div id='iu'>
       <div id='ih1'>
         <div id='ih2'>
           <h1>Frequently Asked Questions</h1>
